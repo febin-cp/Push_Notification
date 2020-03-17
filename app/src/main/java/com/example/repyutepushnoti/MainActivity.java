@@ -31,7 +31,7 @@ public class MainActivity extends AppCompatActivity {
     // Notification Builder
     // Notification Manager
 
-    private static final String CHANNEL_ID = "repyute_notification";
+    public static final String CHANNEL_ID = "repyute_notification";
     private static final String CHANNEL_NAME = "Repyute Notification";
     private static final String CHANNEL_DESC = "Notify user if any transaction is committed against his UserID";
 
