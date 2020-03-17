@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "206034861502",
+    "firebase_url": "https://repyutepushnoti.firebaseio.com",
+    "project_id": "repyutepushnoti",
+    "storage_bucket": "repyutepushnoti.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:206034861502:android:43558f8e629271da958def",
+        "android_client_info": {
+          "package_name": "com.example.repyutepushnoti"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "206034861502-l3tj5h4a3j1sompc3kv23mdcclahhvnt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.repyutepushnoti",
+            "certificate_hash": "248a497d1c10c0cc0dba33229b2199aece3afd33"
+          }
+        },
+        {
+          "client_id": "206034861502-rpgic8ohjgi0tbfhvoqj5k19nsb7vtqe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlYP-PsX5yIWeZGYg_zq6tPEF5__EuHVw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "206034861502-rpgic8ohjgi0tbfhvoqj5k19nsb7vtqe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
